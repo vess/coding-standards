@@ -40,6 +40,7 @@
 	<rule ref="Squiz.Operators.IncrementDecrementUsage">
 		<exclude name="Squiz.Operators.IncrementDecrementUsage.processAssignment" />
 	</rule>
+	<rule ref="Squiz.PHP.CommentedOutCode" />
 	<rule ref="Squiz.Scope.StaticThisUsage" />
 	<rule ref="Squiz.WhiteSpace.ScopeClosingBrace" />
 	<rule ref="Squiz.WhiteSpace.CastSpacing"/>
